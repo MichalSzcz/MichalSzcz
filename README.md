@@ -27,7 +27,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL----gray)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
